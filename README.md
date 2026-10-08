@@ -29,7 +29,7 @@ http://127.0.0.1:5000/mut?a=5&b=10
 - Exemplo de operação de de divisão:
 
 ```bash
-http://127.0.0.1:5000/divb?a=10&b=5
+http://127.0.0.1:5000/div?a=10&b=5
 ```
 
 ## Como Testar WebCalc
